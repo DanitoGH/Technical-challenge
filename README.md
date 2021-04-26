@@ -24,12 +24,23 @@
 ### Installation
 
 ```bash
+ # Start the client
+
+ cd client
+
  npm install
 
- yarn install
+ npm run start
 
- pnpm install
+ # Start the api
+ 
+ cd api
+
+ npm install
+
+ npm run start
 ````
+
 ---
  NOTE:
 ---
